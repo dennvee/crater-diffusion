@@ -1,2 +1,2 @@
-# crater-diffusion
-Code to model diffusion of craters 
+# crater_sculpture
+Script for turning lunar DEM data into STL files for 3D printing
